@@ -56,7 +56,7 @@ const Header = () => {
                 src="https://www.freeiconspng.com/uploads/hd-youtube-logo-png-transparent-background-20.png"
                 alt="Youtube Logo"
               />
-              <b className="cursor-pointer text-lg">MyYouTube</b>
+              <b className="cursor-pointer text-lg">YouTube</b>
             </Link>
           </div>
           <div className="hidden md:block col-span-8">
